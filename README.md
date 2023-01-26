@@ -9,3 +9,6 @@
 
 - 分類器
 1. traincascade.exe
+
+- detector.py
+1. CV2 
