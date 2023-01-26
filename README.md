@@ -11,4 +11,4 @@
 1. traincascade.exe
 
 - detector.py
-1. CV2 
+1. CV2 detect live arrow
