@@ -1,11 +1,11 @@
 # arrow-detection
--權重檔
-cascade2Left.xml
-cascade2Right.xml
-cascade2Straight.xml
+- 權重檔
+1. cascade2Left.xml
+2. cascade2Right.xml
+3. cascade2Straight.xml
 
--生成資料集
-creatsample.exe
+- 生成資料集
+. creatsample.exe
 
--分類器
-traincascade.exe
+- 分類器
+. traincascade.exe
