@@ -5,7 +5,7 @@
 3. cascade2Straight.xml
 
 - 生成資料集
-. creatsample.exe
+1. creatsample.exe
 
 - 分類器
-. traincascade.exe
+1. traincascade.exe
