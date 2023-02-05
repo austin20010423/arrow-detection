@@ -1,4 +1,4 @@
-# arrow-detection
+# Arrow Detection
 ## 權重檔
 - cascade2Left.xml
 - cascade2Right.xml
